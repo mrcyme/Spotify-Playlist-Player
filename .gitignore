@@ -1,0 +1,5 @@
+/kivy_env
+*.json
+__pycache__
+Pipfile
+*.lock
